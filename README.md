@@ -1,6 +1,6 @@
 # 🧮 UACN Financial Forecasting Model (Excel)
 
-This repository presents a comprehensive **Financial Model built in Microsoft Excel** for **UAC of Nigeria Plc (UACN)** — a diversified conglomerate operating in the Nigerian market. Designed with precision and foresight, this project embodies my expertise as a **Data Analyst** and **Data Scientist**, blending finance, strategy, and analytics into one cohesive system.
+This repository presents a comprehensive **Financial Model built in Microsoft Excel** for **UAC of Nigeria Plc (UACN)** a diversified conglomerate operating in the Nigerian market. Designed with precision and foresight, this project embodies my expertise as a **Data Analyst** and **Data Scientist**, blending finance, strategy, and analytics into one cohesive system.
 
 ![Financial Model Preview](UACN.pdf)
 
